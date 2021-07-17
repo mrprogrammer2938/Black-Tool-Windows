@@ -3,12 +3,12 @@
 **Installing**
 bash:
 ```
-    bash install.sh
+bash install.sh
 ```
 
 Batch File:
 ```
-          install.bat
+install.bat
 ```
 
 
